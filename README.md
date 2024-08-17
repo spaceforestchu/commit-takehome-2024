@@ -16,6 +16,10 @@ This repository consists of the following files and folders:
 3. `seed-data.sql` (sample data for restaurant and reservation)
 4. `web-screenshots` (design inspiration)
 
+# Timeline
+
+One week to complete this
+
 # Tips
 
 Make sure Postgres is turned on
@@ -218,3 +222,7 @@ Please provide documentation on the following aspects:
 Please submit the GitHub links for both the frontend and backend, as well as the deployment links for both the frontend and backend.
 
 - [Survey](https://docs.google.com/forms/d/1VVXg7gkut25oAiXRIvwuKolIctP3edIua1lqbS0ZwDs/edit)
+
+# BONUS (Optional)
+
+1. Implement testing for both frontend and backend
