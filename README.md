@@ -202,7 +202,7 @@ Your Reservation App should have the following pages
 make sure you implement the following
 
 - .gitignore
-- .nev
+- .env
 
 # **Summary**
 
