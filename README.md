@@ -212,3 +212,9 @@ Please provide documentation on the following aspects:
    - Describe the reasoning behind your decisions and the rationale for the approaches you chose.
 2. **Design Process**
    - Include low-fidelity mockups to illustrate your initial design concepts and layout ideas.
+
+# **Submission**
+
+Please submit the GitHub links for both the frontend and backend, as well as the deployment links for both the frontend and backend.
+
+- [Survey](https://docs.google.com/forms/d/1VVXg7gkut25oAiXRIvwuKolIctP3edIua1lqbS0ZwDs/edit)
