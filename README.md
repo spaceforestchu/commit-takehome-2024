@@ -12,9 +12,12 @@ This coding challenge involves building a fullstack web app using React (fronten
 This repository consists of the following files and folders:
 
 1. `package.json`
-2. `schema.sql` (for restaurant and reservation tables)
-3. `seed-data.sql` (sample data for restaurant and reservation)
-4. `web-screenshots` (design inspiration)
+2. `db/restaurant_reservation_schema_init.sql` (for restaurant and reservation tables)
+3. `db/restaurant_reservation_seed_data.sql` (sample data for restaurant and reservation)
+4. `app-screenshots` (design inspiration)
+5. `README.html`
+6. `README.md`
+7. `server.js`
 
 # Timeline
 
