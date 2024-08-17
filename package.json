@@ -1,0 +1,17 @@
+{
+  "name": "pursuit-commit-take-home",
+  "version": "1.0.0",
+  "description": "Backend for Takehome",
+  "scripts": {
+    "start": "node server.js",
+    "pg:init": "psql -U postgres -f db/restaurant_reservation_schema_init.sql",
+    "pg:seed": "psql -U postgres -f db/restaurant_reservation_seed_data.sql"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.1",
+    "pg": "^8.7.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
